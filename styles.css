@@ -1,9 +1,9 @@
 :root {
-    --text-color: #333;
-    --link-bg: #ffffff;
+    --text-color: #ffffff;
+    --link-bg: #00ffffff;
     --link-hover: #f0f0f0;
     --link-shadow: rgba(0, 0, 0, 0.1);
-    --music-bg: rgba(255, 255, 255, 0.5);
+    --music-bg: #00ffffff;
     --primary-color: #4a86e8;
     --secondary-color: #9c27b0;
     --transition-speed: 0.4s;
@@ -167,7 +167,7 @@ body {
     bottom: 20px;
     right: 20px;
     background-color: var(--music-bg);
-    border-radius: 15px;
+    border-radius: 12px;
     padding: 12px;
     width: 320px;
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
@@ -176,7 +176,7 @@ body {
     z-index: 1000;
     transition: transform var(--transition-speed) ease, opacity var(--transition-speed) ease;
     transform: translateY(0);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(20px);
     border: 1px solid rgba(255, 255, 255, 0.5);
     max-height: 240px;
 }
