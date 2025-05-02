@@ -1,5 +1,5 @@
 :root {
-    --text-color: #ffffff;
+    --text-color: #000000;
     --link-bg: #ffffff80;
     --link-hover: #f0f0f0;
     --link-shadow: rgba(0, 0, 0, 0.1);
@@ -366,7 +366,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: #ffffff80;
     backdrop-filter: blur(10px);
     z-index: 9999;
     display: flex;
