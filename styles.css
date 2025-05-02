@@ -1,9 +1,9 @@
 :root {
     --text-color: #ffffff;
-    --link-bg: #00ffffff;
+    --link-bg: #ffffff80;
     --link-hover: #f0f0f0;
     --link-shadow: rgba(0, 0, 0, 0.1);
-    --music-bg: #00ffffff;
+    --music-bg: #ffffff80;
     --primary-color: #4a86e8;
     --secondary-color: #9c27b0;
     --transition-speed: 0.4s;
@@ -460,6 +460,12 @@ body {
 
 /* MOBILE RESPONSIVENESS IMPROVEMENTS */
 @media (max-width: 768px) {
+    body {
+        background-image: url("https://i.supa.codes/mv5oYO");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
     .music-player {
         width: calc(100% - 30px);
         right: 15px;
