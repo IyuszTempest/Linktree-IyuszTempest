@@ -20,6 +20,7 @@
 body {
     background-image: url("https://i.supa.codes/c83fb7");
     background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
     color: var(--text-color);
     transition: background-color var(--transition-speed) ease;
@@ -463,6 +464,7 @@ body {
     body {
         background-image: url("https://i.supa.codes/c1D5iQ");
         background-size: cover;
+        background-position: center;
         background-repeat: no-repeat;
     }
     
