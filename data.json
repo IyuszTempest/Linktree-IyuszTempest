@@ -29,7 +29,7 @@
             "title": "GitHub",
             "url": "https://github.com/IyuszTempest",
             "icon": "fab fa-github"
-        },
+        }
     ],
     "music": {
         "title": "AiScReam",
@@ -66,7 +66,7 @@
             { "time": 126, "text": "MELT MELTY tokechau yo 2\nMELT MELTY aku menjadi meleleh" },
             { "time": 129, "text": "Nee? Nee? Nee? Kidzuite my darling Todoke! Daisuki! 3\nHei? Hei? Hei? Sadarilah aku sayangku Sampaikan! Aku mencintaimu!" },
             { "time": 137, "text": "Ai ai sukurimu SCREAM sakebimasho (Sukuriimu! Aisukuriimu!) OK! 4\nAi scream ai SCREAM ayo kita teriak (Scream!  Ice cream!) OK!" },
-            { "time": 141, "text": "Ai ai sukurimu! SCREAM sakebimasho (Sukuriimu! Aisukuriimu!) 5\nAi scream ai SCREAM ayo kita teriak(Scream! Ice  cream!)" },
+            { "time": 141, "text": "Ai ai sukurimu! SCREAM sakebimasho (Sukuriimu! Aisukuriimu!) 5\nAi scream ai SCREAM ayo kita teriak(Scream! Ice  cream!)" }
         ]
     }
 }
