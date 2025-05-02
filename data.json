@@ -6,6 +6,16 @@
     },
     "links": [
         {
+            "title": "WhatsApp",
+            "url": "wa.me/6282255810534",
+            "icon": "fab fa-whatsapp"
+        },
+        {
+            "title": "Telegram",
+            "url": "t.me/iyusz_tempest",
+            "icon": "fab fa-telegram"
+        },
+        {
             "title": "Instagram",
             "url": "https://instagram.com/Iyusz_Tempest",
             "icon": "fab fa-instagram"
@@ -40,33 +50,33 @@
         "timeSync": [
             { "time": 0, "text": "Intro music..." },
             { "time": 14, "text": "Oshiete! Motto anata no koto 1\nBeritahu aku tentangmu lebih banyak lagi!" },
-            { "time": 17, "text": "(Tell me more more more more Tell me more more more more) 1\n(Katakan padaku lebih lebih lebih lagi Katakan padaku lebih lebih lebih lagi)" },
-            { "time": 21, "text": "Kikasete! Motto anata no koe 2\nBiarkan aku mendengar suaramu lebih lagi!" },
-            { "time": 25, "text": "(Let me hear more more more Let me hear more more more.) 3\n(Biarkan kudengar lebih lebih lagi Biarkan kudengar lebih lebih lagi)" },
-            { "time": 29, "text": "Konna dokidoki mou osaekirenai 4\nDebaran di hatiku ini tak bisa kubendung lagi" },
-            { "time": 33, "text": "(All I need you Oh! All I need you.) 5\n(Kaulah yang kuperlukan Oh! Kaulah yang kuperlukan)" },
-            { "time": 37, "text": "Tomodachi wa sotsugyou unmei no watashi mitsukete hoshii no 6\nAku ingin lulus dari status teman aku ingin kau menemukanku sebagai takdirmu" },
-            { "time": 45, "text": "One Yuuki wo dashite 1\nSatu Mengumpulkan keberanian" },
-            { "time": 49, "text": "Two Mitsumeru sakusen 2\nDua Dengan strategi menatapmu" },
-            { "time": 52, "text": "Three Me to me ga aeba Fall 3\nTiga Ketika tatapan kita bertemu Jatuh cinta" },
-            { "time": 57, "text": "Tomerarenai YEAH YEAH YEAH kono koi kono ai de 1\nTak bisa dihentikan YEAH YEAH YEAH dengan suka dan cinta ini" },
-            { "time": 62, "text": "MELT MELTY tokechau yo 2\nMELT MELTY aku menjadi meleleh" },
-            { "time": 66, "text": "Nee? Nee? Nee? Kidzuite my darling Todoke! Daisuki! 3\nHei? Hei? Hei? Sadarilah aku sayangku Sampaikan! Aku mencintaimu!" },
-            { "time": 74, "text": "Ai ai sukurimu SCREAM sakebimasho (Sukuriimu! Aisukuriimu!) OK! 4\n Ai scream ai SCREAM ayo kita teriak (Scream!  Ice cream!) OK!" },
-            { "time": 81, "text": "Ai ai sukurimu! SCREAM sakebimasho (Sukuriimu! Aisukuriimu!) 5\nAi scream ai SCREAM ayo kita teriak(Scream! Ice  cream!)" },
-            { "time": 90, "text": "Ruby-chan! Nani ga suki? 1\nRuby-chan! Apa yang kau suka?" },
-            { "time": 94, "text": "Choko minto yori mo a na ta 2\nChoco mint tapi aku lebih suka kamu" },
-            { "time": 97, "text": "Ayumu-chan! Nani ga suki? 3\nAyumu-chan! Apa yang kau suka?" },
-            { "time": 102, "text": "Sutoroberii fureibaa yori mo a na ta 4\nRasa stroberi tapi aku lebih suka kamu" },
-            { "time": 105, "text": "Shiki-chan! Nani ga suki? 5\nShiki-chan! Apa yang kau suka?" },
-            { "time": 109, "text": "Kukkii & kuriimu yori mo a na ta 6\nCookies & cream tapi aku lebih suka kamu" },
-            { "time": 112, "text": "Minna nani ga suki? 7\nSemuanya apa yang kalian suka?" },
-            { "time": 117, "text": "Mochiron daisuki AiScReam 8\nTentu saja suka dengan AiScReam" },
-            { "time": 120, "text": "Tomerarenai YEAH YEAH YEAH kono koi kono ai de 1\nTak bisa dihentikan YEAH YEAH YEAH dengan suka dan cinta ini" },
-            { "time": 126, "text": "MELT MELTY tokechau yo 2\nMELT MELTY aku menjadi meleleh" },
-            { "time": 129, "text": "Nee? Nee? Nee? Kidzuite my darling Todoke! Daisuki! 3\nHei? Hei? Hei? Sadarilah aku sayangku Sampaikan! Aku mencintaimu!" },
-            { "time": 137, "text": "Ai ai sukurimu SCREAM sakebimasho (Sukuriimu! Aisukuriimu!) OK! 4\nAi scream ai SCREAM ayo kita teriak (Scream!  Ice cream!) OK!" },
-            { "time": 141, "text": "Ai ai sukurimu! SCREAM sakebimasho (Sukuriimu! Aisukuriimu!) 5\nAi scream ai SCREAM ayo kita teriak(Scream! Ice  cream!)" }
+            { "time": 17, "text": "(Tell me more more more more Tell me more more more more) 2\n(Katakan padaku lebih lebih lebih lagi Katakan padaku lebih lebih lebih lagi)" },
+            { "time": 21, "text": "Kikasete! Motto anata no koe 3\nBiarkan aku mendengar suaramu lebih lagi!" },
+            { "time": 25, "text": "(Let me hear more more more Let me hear more more more.) 4\n(Biarkan kudengar lebih lebih lagi Biarkan kudengar lebih lebih lagi)" },
+            { "time": 29, "text": "Konna dokidoki mou osaekirenai 5\nDebaran di hatiku ini tak bisa kubendung lagi" },
+            { "time": 33, "text": "(All I need you Oh! All I need you.) 6\n(Kaulah yang kuperlukan Oh! Kaulah yang kuperlukan)" },
+            { "time": 37, "text": "Tomodachi wa sotsugyou unmei no watashi mitsukete hoshii no 7\nAku ingin lulus dari status teman aku ingin kau menemukanku sebagai takdirmu" },
+            { "time": 45, "text": "One Yuuki wo dashite 8\nSatu Mengumpulkan keberanian" },
+            { "time": 49, "text": "Two Mitsumeru sakusen 9\nDua Dengan strategi menatapmu" },
+            { "time": 52, "text": "Three Me to me ga aeba Fall 10\nTiga Ketika tatapan kita bertemu Jatuh cinta" },
+            { "time": 57, "text": "Tomerarenai YEAH YEAH YEAH kono koi kono ai de 11\nTak bisa dihentikan YEAH YEAH YEAH dengan suka dan cinta ini" },
+            { "time": 62, "text": "MELT MELTY tokechau yo 12\nMELT MELTY aku menjadi meleleh" },
+            { "time": 66, "text": "Nee? Nee? Nee? Kidzuite my darling Todoke! Daisuki! 13\nHei? Hei? Hei? Sadarilah aku sayangku Sampaikan! Aku mencintaimu!" },
+            { "time": 74, "text": "Ai ai sukurimu SCREAM sakebimasho (Sukuriimu! Aisukuriimu!) OK! 14\n Ai scream ai SCREAM ayo kita teriak (Scream!  Ice cream!) OK!" },
+            { "time": 81, "text": "Ai ai sukurimu! SCREAM sakebimasho (Sukuriimu! Aisukuriimu!) 15\nAi scream ai SCREAM ayo kita teriak(Scream! Ice  cream!)" },
+            { "time": 90, "text": "Ruby-chan! Nani ga suki? 16\nRuby-chan! Apa yang kau suka?" },
+            { "time": 94, "text": "Choko minto yori mo a na ta 17\nChoco mint tapi aku lebih suka kamu" },
+            { "time": 97, "text": "Ayumu-chan! Nani ga suki? 18\nAyumu-chan! Apa yang kau suka?" },
+            { "time": 102, "text": "Sutoroberii fureibaa yori mo a na ta 19\nRasa stroberi tapi aku lebih suka kamu" },
+            { "time": 105, "text": "Shiki-chan! Nani ga suki? 20\nShiki-chan! Apa yang kau suka?" },
+            { "time": 109, "text": "Kukkii & kuriimu yori mo a na ta 21\nCookies & cream tapi aku lebih suka kamu" },
+            { "time": 112, "text": "Minna nani ga suki? 22\nSemuanya apa yang kalian suka?" },
+            { "time": 117, "text": "Mochiron daisuki AiScReam 23\nTentu saja suka dengan AiScReam" },
+            { "time": 120, "text": "Tomerarenai YEAH YEAH YEAH kono koi kono ai de 24\nTak bisa dihentikan YEAH YEAH YEAH dengan suka dan cinta ini" },
+            { "time": 126, "text": "MELT MELTY tokechau yo 25\nMELT MELTY aku menjadi meleleh" },
+            { "time": 129, "text": "Nee? Nee? Nee? Kidzuite my darling Todoke! Daisuki! 26\nHei? Hei? Hei? Sadarilah aku sayangku Sampaikan! Aku mencintaimu!" },
+            { "time": 137, "text": "Ai ai sukurimu SCREAM sakebimasho (Sukuriimu! Aisukuriimu!) OK! 27\nAi scream ai SCREAM ayo kita teriak (Scream!  Ice cream!) OK!" },
+            { "time": 141, "text": "Ai ai sukurimu! SCREAM sakebimasho (Sukuriimu! Aisukuriimu!) 28\nAi scream ai SCREAM ayo kita teriak(Scream! Ice  cream!)" }
         ]
     }
 }
